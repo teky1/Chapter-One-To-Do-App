@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Pressable, Text, View, StyleSheet, SectionList, TextInput, KeyboardAvoidingView, Platform } from "react-native";
+import { Pressable, Text, View, SectionList, TextInput, KeyboardAvoidingView, Platform } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import FlashMessage, { showMessage } from "react-native-flash-message";
 import { FontAwesomeIcon } from "@fortawesome/react-native-fontawesome";
