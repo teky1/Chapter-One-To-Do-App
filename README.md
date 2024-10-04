@@ -2,7 +2,7 @@
 
 A simple task list app written in React Native
 
-![Screenshot of App's Main Screen](./assets/images/todo-image.png)
+![Screenshot of App's Main Screen](./assets/images/todo-image.png )
 
 ## Features
 
